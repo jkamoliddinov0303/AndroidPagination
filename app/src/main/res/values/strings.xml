@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image Downloader</string>
+    <string name="download">Download</string>
+    <string name="search">Search…</string>
+</resources>
